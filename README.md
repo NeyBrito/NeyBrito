@@ -14,7 +14,7 @@
 
 #### I Work With
 
-<img src="https://www.innovativetechin.com/Uploads/Images/Description/1585396154desc.png" alt="SAPABAP" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/35903451/209015186-c59e60ae-39f2-4a7b-9dbb-a9ee8118bd83.png" alt="image" style="zoom: 46%;" /><img src="https://user-images.githubusercontent.com/35903451/209016246-01f5d640-932e-44a8-89d2-b2321c35fa0c.png" alt="image" style="zoom: 37%;" />
+<img src="https://www.innovativetechin.com/Uploads/Images/Description/1585396154desc.png" alt="SAPABAP" style="zoom:10%;" /><img src="https://user-images.githubusercontent.com/35903451/209015186-c59e60ae-39f2-4a7b-9dbb-a9ee8118bd83.png" alt="image" style="zoom: 46%;" /><img src="https://user-images.githubusercontent.com/35903451/209016246-01f5d640-932e-44a8-89d2-b2321c35fa0c.png" alt="image" style="zoom: 37%;" />
 
 
 
