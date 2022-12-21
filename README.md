@@ -13,12 +13,16 @@
 [![img](https://camo.githubusercontent.com/957fae931c0ebb6a7d216055dc5776a24fc8443dcaee78c7170b122cf4879b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d3030353939432e7376673f6c6f676f3d64617274267374796c653d706c6173746963)](https://camo.githubusercontent.com/957fae931c0ebb6a7d216055dc5776a24fc8443dcaee78c7170b122cf4879b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d3030353939432e7376673f6c6f676f3d64617274267374796c653d706c6173746963)[![img](https://camo.githubusercontent.com/338f8a01239da418c0696bf0db4e291b567449a5abc0078d56340c9916ed8fd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339362e7376673f6c6f676f3d6a617661267374796c653d706c6173746963)](https://camo.githubusercontent.com/338f8a01239da418c0696bf0db4e291b567449a5abc0078d56340c9916ed8fd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339362e7376673f6c6f676f3d6a617661267374796c653d706c6173746963)
 
 #### I Work With
-![SAPABP](https://www.innovativetechin.com/Uploads/Images/Description/1585396154desc.png)
+
+<img src="https://www.innovativetechin.com/Uploads/Images/Description/1585396154desc.png" alt="SAPABAP" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/35903451/209015186-c59e60ae-39f2-4a7b-9dbb-a9ee8118bd83.png" alt="image" style="zoom: 46%;" /><img src="https://user-images.githubusercontent.com/35903451/209016246-01f5d640-932e-44a8-89d2-b2321c35fa0c.png" alt="image" style="zoom: 37%;" />
+
+
+
+#### I'm learning
+
+<img src="https://miro.medium.com/max/854/1*wqnAwHqLk4e5fJ393pgUKQ.png" alt="sapui5" style="zoom:5%;" /><img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="js" style="zoom:9%;" /><img src="https://user-images.githubusercontent.com/35903451/209018216-6607435d-42e1-46d9-9726-c5943fbddee6.png" alt="image" style="zoom:90%;" />
 
 ### GitHub Stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neybrito&show_icons=true&theme=radical)
-
-
-
 
