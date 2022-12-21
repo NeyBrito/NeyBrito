@@ -15,7 +15,7 @@
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 #### And with these language and platforms
-!(SAP|ABAP)(https://img.shields.io/badge/SAP-ABAP-blue??style=for-the-badge&logo=sap)![SAP|PI](https://img.shields.io/badge/SAP-PI-blue??style=for-the-badge&logo=sap)![SAP|CPI](https://img.shields.io/badge/SAP-CPI-blue??style=for-the-badge&logo=sap)
+![SAP|ABAP](https://img.shields.io/badge/SAP-ABAP-blue??style=for-the-badge&logo=sap)![SAP|PI](https://img.shields.io/badge/SAP-PI-blue??style=for-the-badge&logo=sap)![SAP|CPI](https://img.shields.io/badge/SAP-CPI-blue??style=for-the-badge&logo=sap)
 
 
 #### I'm learning
