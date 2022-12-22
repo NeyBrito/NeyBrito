@@ -19,8 +19,7 @@
 
 
 #### I'm learning
-![SAP|UI5](https://img.shields.io/badge/SAP-UI5-red?style=for-the-badge&logo=sap)
-![SAP|FIORI](https://img.shields.io/badge/SAP-FIORI-blue?style=for-the-badge&logo=sap)![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SAP|UI5](https://img.shields.io/badge/SAP-UI5-red?style=for-the-badge&logo=sap)![SAP|FIORI](https://img.shields.io/badge/SAP-FIORI-blue?style=for-the-badge&logo=sap)![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 #### ⚡ known Database
