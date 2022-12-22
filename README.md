@@ -19,7 +19,9 @@
 
 
 #### I'm learning
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SAP|UI5](https://img.shields.io/badge/SAP-UI5-red?style=for-the-badge&logo=sap)
+![SAP|FIORI](https://img.shields.io/badge/SAP-FIORI-blue?style=for-the-badge&logo=sap)![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 #### ⚡ known Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -29,7 +31,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neybrito&show_icons=true&theme=radical)
 ![iconui5](https://user-images.githubusercontent.com/35903451/209024260-fbe7ea3f-393d-471b-bb08-a764d38015da.png)
 
-![UI5](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=https://user-images.githubusercontent.com/35903451/209024260-fbe7ea3f-393d-471b-bb08-a764d38015da.png;&logoWidth=30)
 
 
 
