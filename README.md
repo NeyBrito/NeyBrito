@@ -29,8 +29,6 @@
 ### GitHub Stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neybrito&show_icons=true&theme=radical)
-![iconui5](https://user-images.githubusercontent.com/35903451/209024260-fbe7ea3f-393d-471b-bb08-a764d38015da.png)
-
 
 
 
